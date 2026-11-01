@@ -13,9 +13,8 @@ A fast, lightweight web application built with vanilla TypeScript that fetches a
 
 - **Language**: TypeScript
 - **Styling**: CSS / HTML5
-- **Build Tool / Bundler**: Vite (or your chosen bundler, e.g., Webpack, Parcel)
-- **API**: OpenWeatherMap API (or whichever API you are using)
-
+- **Build Tool / Bundler**: Vite
+- **API**: OpenWeatherMap API 
 ## Getting Started
 
 ### Prerequisites
